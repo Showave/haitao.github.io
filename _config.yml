@@ -1,1 +1,6 @@
-title: My Demo
+title: 我的学习文档
+description: 一份用 Jekyll 构建的 GitHub Pages 主页
+theme: jekyll-theme-minimal
+show_downloads: false
+plugins:
+  - jekyll-feed
